@@ -18,7 +18,7 @@
         v2.4.1 · 正式版
       </div>
 
-      <h1 class="title">你好，<em>Codex</em>！</h1>
+      <h1 class="title">Chatgpt</h1>
 
       <p class="subtitle">
         下一代开发体验，为创造者而生。<br />
